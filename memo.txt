@@ -1,0 +1,3 @@
+He comenzado este proyecto ya hace algunos días. 
+Esta es una práctica de registro para constar que he entrenado mis habilidades. 
+Algún día regresaré aquí tras haber dominado Javascript.
