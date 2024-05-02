@@ -3,3 +3,4 @@ Esta es una práctica de registro para constar que he entrenado mis habilidades.
 Algún día regresaré aquí tras haber dominado Javascript.
 
 Por el momento este es mi más grande aprendizaje.
+Y aunque me siento orgulloso por ello, no puedo negar que tengo un poco de miedo.
