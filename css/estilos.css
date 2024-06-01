@@ -17,6 +17,24 @@ body
     margin: 0 auto;
 }
 
+#temphead
+{
+    background: #33a;
+    color: white;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#temphead #tagline 
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 16px;
+}
+
 #container h1
 {
     font-size: 28px;
