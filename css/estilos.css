@@ -1,24 +1,50 @@
 body
 {
+<<<<<<< HEAD
     background: #1e1f24;
     color: #333;
     text-align: center;
     font-family: Arial;
+=======
+    color: darkblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+>>>>>>> b0cb603fb558b0d2ba9a45d03149acddc9c61fc3
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
+<<<<<<< HEAD
 #cabecera
 {
     background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
+=======
+#container 
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px, solid, #ddd;
+    margin: 0 auto;
+}
+
+#temphead
+{
+    background: #33a;
+    color: white;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    font-size: 20px;
+>>>>>>> b0cb603fb558b0d2ba9a45d03149acddc9c61fc3
     margin: 0;
     padding: 0.5em;
 }
 
+<<<<<<< HEAD
 #cabecera #logo
 {
     width: 20px;
@@ -39,10 +65,18 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+=======
+#temphead #tagline 
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 16px;
+>>>>>>> b0cb603fb558b0d2ba9a45d03149acddc9c61fc3
 }
 
 #container h1
 {
+<<<<<<< HEAD
     font-size: 20px;
 }
 #post
@@ -60,3 +94,8 @@ body
 }
 
 
+=======
+    font-size: 28px;
+    text-align: center;
+}
+>>>>>>> b0cb603fb558b0d2ba9a45d03149acddc9c61fc3
